@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Corpus of Ukrainian Literature</description>
+    <author/>
+    <status>beta</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <target>ua</target>
+    <permissions user="tei" group="tei" mode="rw-r--r--"/>
+    <deployed>2022-03-06T16:13:49.832+01:00</deployed>
+</meta>

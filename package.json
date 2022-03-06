@@ -1,0 +1,8 @@
+{
+  "name" : "ua",
+  "version" : "1.0.0",
+  "description" : "Corpus of Ukrainian Literature",
+  "dependencies" : {
+    "@teipublisher/pb-components" : "1.24.18"
+  }
+}
